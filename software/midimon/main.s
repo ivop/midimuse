@@ -825,7 +825,7 @@ pat13   .by "Xylophone" eol
 pat14   .by "Tubular Bells" eol
 pat15   .by "Dulcimer" eol
 pat16   .by "Drawbar Organ" eol
-pat17   .by "percussive Organ" eol
+pat17   .by "Percussive Organ" eol
 pat18   .by "Rock Organ" eol
 pat19   .by "Church Organ" eol
 pat20   .by "Reed Organ" eol
